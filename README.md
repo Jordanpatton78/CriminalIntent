@@ -8,3 +8,4 @@ Things that I've learned:
 4. How to use an abstract class to simplify code.  
 5. How to make a new class the launcher class in the manifest.  
 6. How to use ListFragments.  
+7. How to use ArrayAdapters.  
