@@ -9,3 +9,4 @@ Things that I've learned:
 5. How to make a new class the launcher class in the manifest.  
 6. How to use ListFragments.  
 7. How to use ArrayAdapters.  
+8. How to change the root element when you create a new layout (default is ConstraintLayout).  
